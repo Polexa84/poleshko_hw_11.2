@@ -1,4 +1,5 @@
 def upper_case(string):
+    """Полученные буквы делает прописными"""
     return string.upper()
 
 def capitalize_words(string):
